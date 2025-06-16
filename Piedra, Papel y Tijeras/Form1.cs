@@ -92,12 +92,16 @@ namespace Piedra__Papel_y_Tijeras
                 LBLResultado.Text = "NO ELEGISTES NADA...";
             }
 
-            if (puntajeAI > 2)
+            if (puntajeAI > 3)
             {
+                puntajeJugador = 0;
+                puntajeAI = 0;
                 LBLResultado.Text = "OOPS HAS PERDIDO!";
             }
-            if (puntajeJugador > 2)
-            {
+            if (puntajeJugador > 3)
+            {   
+                puntajeJugador = 0;
+                puntajeAI = 0;
                 LBLResultado.Text = "FELICIDADES TU OPONENTE \nHA SIDO VENCIDO!";
             }
 

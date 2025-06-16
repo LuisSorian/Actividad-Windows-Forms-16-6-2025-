@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\bin\Debug\Piedra, Papel y Tijeras.exe.config
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\bin\Debug\Piedra, Papel y Tijeras.exe
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\bin\Debug\Piedra, Papel y Tijeras.pdb
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\obj\Debug\Piedra, Papel y Tijeras.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\obj\Debug\Piedra__Papel_y_Tijeras.PPT.resources
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\obj\Debug\Piedra__Papel_y_Tijeras.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\obj\Debug\Piedra, Papel y Tijeras.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\obj\Debug\Piedra, Papel y Tijeras.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\obj\Debug\Piedra, Papel y Tijeras.exe
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Piedra, Papel y Tijeras\obj\Debug\Piedra, Papel y Tijeras.pdb

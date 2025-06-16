@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\bin\Debug\Actividad Clase.exe.config
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\bin\Debug\Actividad Clase.exe
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\bin\Debug\Actividad Clase.pdb
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\obj\Debug\Actividad Clase.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\obj\Debug\Actividad_Clase.APDescuento.resources
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\obj\Debug\Actividad_Clase.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\obj\Debug\Actividad Clase.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\obj\Debug\Actividad Clase.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\obj\Debug\Actividad Clase.exe
+C:\Users\Estudiante\Desktop\Ejercicios clase (16-6-2025)\Actividad Clase\obj\Debug\Actividad Clase.pdb
